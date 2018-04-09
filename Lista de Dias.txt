@@ -37,4 +37,11 @@
         
                             Busqueda y Prueba de plugins para controlar y organizar eventos con calendario
                             
+                            Sacar copias de seguridad de las bases de datos de InagroAgricola
+                            
+                            Sacar copias de Seguridad de las páginas de InagroAgricola
+                            
+                            Empezada tradución a Italiano de Inagroagricola
+                            
+                            Creación de Sliders y Configuración de Inagroagricola
                             
