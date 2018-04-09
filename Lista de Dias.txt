@@ -14,12 +14,25 @@
                             Arreglo de Numeros de Telefonos en PeraltaLAW y mantenimiento de plugins Anti-Spam
                             
                             
-                            
-                            
-                            En "Formulario de contacto 1"  desarrolloweb@agatar.es
+                            Avance en arreglo de correción de formulario
                             
                             
                             
-                            En "Contacto" info@agatar.es
+        Viernes: 6 Abril 2018
+        
+                            Instalación de Wordpress para TomateIberiko
+                            
+                            Encuentro de fallo de formulario
+                            
+        
+        
+        -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+        
+        
+        
+        Lunes: 9 Abril 2018
+        
+        
+                            Busqueda y Prueba de plugins para controlar y organizar eventos con calendario
                             
                             
