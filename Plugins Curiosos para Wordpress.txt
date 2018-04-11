@@ -1,0 +1,19 @@
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        Lista de plugins Curiosos y Interesantes para Wordpress
+                                                                        
+                                                                        
+                                                                        
+        
+        
+        EWWW Image Optimizer:
+        
+                              Este plugin reduce el peso de las imagenes y las optimiza,tanto las imagenes nuevas insertadas como las anteriores que ya lo estubieran pudiendo elegir la compresión.
+                              
+                              Optimiza tanto las imagenes subiedas como las creadas con otros plugins. 
+                              
+                              Todo esto para reducir el peso de las imagenes y mejorar el SEO al reducir el tiempo de carga
+                              
+    

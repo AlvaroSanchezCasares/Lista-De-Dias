@@ -58,3 +58,13 @@
                             Redacción sobre plugins de eventos
                             
                             Redacción sobre problemas encontrados a la hora de realizar la tradución
+                            
+                            
+                            
+        Miercoles: 11 Abril 2018
+        
+        
+        
+                            Tradución de la página "Solo Ecológicos" de Inagroagricola a italiano
+                            
+                            Actualización e inserción y configuración de plugins para prevenir spam en agatar
