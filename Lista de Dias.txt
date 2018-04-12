@@ -68,3 +68,12 @@
                             Tradución de la página "Solo Ecológicos" de Inagroagricola a italiano
                             
                             Actualización e inserción y configuración de plugins para prevenir spam en agatar
+                            
+        Jueves: 12 Abril 2018
+        
+        
+                            Actualización e inserción y configuración de plugins para prevenir spam en PeraltaLaw
+                            
+                            Actualización e inserción y configuración de plugins para prevenir spam en OleoJarico
+                            
+                            Arreglo de Slider en Agatar
