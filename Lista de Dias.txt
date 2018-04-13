@@ -77,3 +77,13 @@
                             Actualización e inserción y configuración de plugins para prevenir spam en OleoJarico
                             
                             Arreglo de Slider en Agatar
+                            
+                            
+        Viernes: 13 Abril 2018
+        
+        
+                            Busqueda de plantillas para páginas de agatar
+                            
+                            Continuación de busquedado de fallo de formulario
+                            
+                            Investigación sobre CDN
