@@ -137,7 +137,7 @@
           
           
           
-          Lunes: 23 Abril 2018
+        Lunes: 23 Abril 2018
           
           
                             Continuación con informe de eventos para calendarios
@@ -151,3 +151,9 @@
                             
                             Creación de inicio en "Cestaecologicabio.es"
                             
+                            
+        Miercoles: 25 Abril 2018
+        
+                            Busqueda de páginas para restaurante
+                            
+                            Empezada maquetación de "Restaurante Equador"
