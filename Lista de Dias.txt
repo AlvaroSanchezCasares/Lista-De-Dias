@@ -14,7 +14,7 @@
                             Arreglo de Numeros de Telefonos en PeraltaLAW y mantenimiento de plugins Anti-Spam
                             
                             
-                            Avance en arreglo de correción de formulario
+                            Empezada busqueda de fallo en formulario de la página de Agatar
                             
                             
                             
@@ -24,7 +24,7 @@
                             
                             Localización de accesos FTP de la web de inagroagricola
                             
-                            Encuentro de fallo de formulario
+                            Encuentro de fallo de formulario de la página de Agatar
                             
         
         
@@ -177,4 +177,29 @@
                             Grabación de vfideo de entrada en la nueva oficina
                             
           -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
+          
+        Miercoles: 2 Abril 2018
+        
+        
+                            Maquetación de restaurante Ecuador
             
+            
+        Viernes: 4 Abril 2018 
+        
+                            Acualización de slider en Oleojarico
+                            
+                            
+          -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+          
+          
+          
+        Lunes: 7 Abril 2018
+        
+        
+                        Revisión de problemas con las traducciones de inagroagricola
+                        
+                        Cambios en el banner de oleojarico
+                        
+                        Avance con el briefing de oleojarico
+                        
+                        Empezada maquetación de Agatar
