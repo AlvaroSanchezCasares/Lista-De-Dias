@@ -201,5 +201,12 @@
                         Cambios en el banner de oleojarico
                         
                         Avance con el briefing de oleojarico
+                                           
                         
-                        Empezada maquetación de Agatar
+        Martes: 8 Abril 2018
+        
+                        Prueba de porfolio hecha en agatar
+                        
+                        Busqueda de fallos con Woocomerce en Oleojarico
+                        
+                        Mirando configuraciones de SMTP
