@@ -178,13 +178,13 @@
                             
           -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------     
           
-        Miercoles: 2 Abril 2018
+        Miercoles: 2 Mayo 2018
         
         
                             Maquetación de restaurante Ecuador
             
             
-        Viernes: 4 Abril 2018 
+        Viernes: 4 Mayo 2018 
         
                             Acualización de slider en Oleojarico
                             
@@ -193,7 +193,7 @@
           
           
           
-        Lunes: 7 Abril 2018
+        Lunes: 7 Mayo 2018
         
         
                         Revisión de problemas con las traducciones de inagroagricola
@@ -203,10 +203,27 @@
                         Avance con el briefing de oleojarico
                                            
                         
-        Martes: 8 Abril 2018
+        Martes: 8 Mayo 2018
         
                         Prueba de porfolio hecha en agatar
                         
                         Busqueda de fallos con Woocomerce en Oleojarico
                         
                         Mirando configuraciones de SMTP
+                        
+                        
+        Miercoles: 9 Mayo 2018
+        
+                        Arreglo formulario en Agatar
+                        
+                        Buscando errores en Oleojarico
+                        
+                        
+        Jueves: 10 Mayo 2018
+        
+                        Pasada de PDF a Powerpoint la presentación de Visum en Español
+                        
+                        Pasada de PDF a Powerpoint la presentación de Visum en Ingles
+                        
+                        Continuación de la busqueda del fallo del Woocomerce de Oleojarico
+                        
