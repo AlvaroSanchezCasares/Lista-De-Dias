@@ -227,3 +227,8 @@
                         
                         Continuación de la busqueda del fallo del Woocomerce de Oleojarico
                         
+                        
+                        
+        Viernes: 11 Mayo 2018
+        
+                        Quitados algunos errores de convertir la presentación a pdf
