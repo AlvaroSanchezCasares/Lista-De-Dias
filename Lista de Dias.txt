@@ -238,7 +238,7 @@
           
           
           
-          Lunes: 14 Mayo 2018
+        Lunes: 14 Mayo 2018
           
                         Mas detalles de la presentación de Visum
                         
@@ -247,5 +247,11 @@
                         Probando "Gravit Designer"
                         
                         Creado prueba de banner para la página de Agatar
+                        
+        Martes: 15 Mayo 2018
         
-        
+                         Puesto en borrador blog de naturchac de Instalaciones en, Español, Ingles y Aleman, faltan imagenes
+
+                         Puesto en borrador el blog de naturchac de Sandia Bio en, Español, Ingles y Aleman
+
+                         Instalación de Wordpress limpio en servidor para Restaurante Ecuador, falta configuración 
