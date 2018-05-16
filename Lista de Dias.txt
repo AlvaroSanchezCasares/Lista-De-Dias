@@ -255,3 +255,11 @@
                          Puesto en borrador el blog de naturchac de Sandia Bio en, Español, Ingles y Aleman
 
                          Instalación de Wordpress limpio en servidor para Restaurante Ecuador, falta configuración 
+                         
+                         
+        Miercoles: 16 Mayo 2018
+        
+        
+                        Instalación de plantillas, y plugins para empezar el desarollo
+                        
+                        Configuración de slider, tanto en web como en movil
