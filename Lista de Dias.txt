@@ -263,3 +263,12 @@
                         Instalación de plantillas, y plugins para empezar el desarollo
                         
                         Configuración de slider, tanto en web como en movil
+                        
+                        
+        Jueves: 17 Mayo 2018
+        
+                        Continuación de construción de página
+                        
+                        Instalación de plugins para mejorar el aspecto visual
+                        
+                        Edición de imagenes con photoshop para la página
