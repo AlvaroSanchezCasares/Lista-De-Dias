@@ -281,3 +281,43 @@
                         Creados dos sliders "Para el video de la brasas" y el de "Hostal"
                         Galeria Insertada
                         Y reunión cambios con cristina sobre la Web y cambios pendientes
+                        
+    
+          -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          
+          
+        Lunes: 21 Mayo 2018
+        
+                        Continuada con la construción de la página añadiendo mas contenido soportado
+                        
+                        
+        Martes: 22 Mayo 2018
+        
+                        Estructura base de la página lista
+                        
+        Miercoles: 23 Mayo 2018
+        
+                        Continuado con el desarollo de la página, cambios en menus y footer
+        
+        Jueves: 24 Mayo 2018
+        
+                        Continuado con el desarollo de la página, pruebas con plugins de optimización "Wp Faster Cache"
+        
+        
+        Vienes: 25 Mayo 2018
+        
+                        Instalación y configuración de Yoast Seo, y busqueda de plugins de Cookies
+        
+          -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          
+        Lunes: 28 Mayo
+        
+        
+                        Actualizadas páginas de "Aviso Legal", "Cookies" y "Politica de Privacidad" de A toda vela
+                        
+                        Instalación y configuración de GDPR Cookie Consent
+                        
+                        Actualizados logos de Restaurante Ecuador
+                        
+                        Instalado GDPR Cookie consent en restaurante ecuador
+                        
