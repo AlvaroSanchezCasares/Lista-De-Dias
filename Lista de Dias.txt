@@ -310,7 +310,7 @@
         
           -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
           
-        Lunes: 28 Mayo
+        Lunes: 28 Mayo 2018
         
         
                         Actualizadas páginas de "Aviso Legal", "Cookies" y "Politica de Privacidad" de A toda vela
@@ -321,3 +321,11 @@
                         
                         Instalado GDPR Cookie consent en restaurante ecuador
                         
+                        
+        Martes: 29 Mayo 2018
+                        
+                          Hoy he publicado el blog de naturcharc de las instalaciones, en los 3 idiomas
+
+                          Hechos los cambios comentados y quitado el modo mantenimiento de restaurante ecuador
+
+                          Varios intento de reinstalar el wordpress del IES Abujaira, si puedes preguntarle a alguien que donde se deberia poner el wordpress si no hay carpeta "http_public"
