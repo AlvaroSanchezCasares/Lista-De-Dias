@@ -329,3 +329,82 @@
                           Hechos los cambios comentados y quitado el modo mantenimiento de restaurante ecuador
 
                           Varios intento de reinstalar el wordpress del IES Abujaira, si puedes preguntarle a alguien que donde se deberia poner el wordpress si no hay carpeta "http_public"
+                          
+                          
+        Miercoles: 30 Mayo 2018
+        
+                          Optimizando Seo de la Página web de Hostal Restaurante Ecuador
+                          
+                          Cambios Varios
+                          
+                          
+        Jueves: 31 Mayo 2018
+        
+                          Añadido Formulario
+                          
+                          Cambios esticos realizados desde código CSS
+                          
+                          
+        Viernes: 1 Junio 2018
+        
+                          Menu de Inagroagricola traducido a Italiano
+                          
+                          Busqueda de archivo .po de la bridge
+                        
+                        
+          -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+          
+          
+          
+        Lunes: 4 Junio 2018
+        
+                            Ya esta configurado el formulario, con el correo de hostalrestauranteecuador@gmail.com y el de soporte@agatar.es, enviando teléfonos que es lo que estaba dando fallos
+
+                            Instalado el certificado de SSL en la página de ecuador
+    
+                            Cambiado el css del formulario con algunos efectos añadidos
+                            
+                          
+        Martes: 5 Junio 2018
+        
+        Miercoles: 6 Junio 2018
+        
+                        De la parte de Inagro esta hecho: 
+
+                             - Crear las categorías
+                             - Añadir "Solo Ecológicos" al menú en italiano
+                             - Empezada la traducción de productos, pero no se si seguir porque veo que faltan descripciones que se deberían de traducir automáticamente
+
+
+                        De la parte de Ecuador
+
+                             - Cambiada la "Y" del menú central 
+                             - Añadido "Desayunos apujarreños"  
+                             - Quitados los precios de las tarifas del hostal
+                             
+                             
+        Jueves: 7 Junio 2018
+
+                             Ya he solucionado los problemas con la web de Ecuador para que aparezca como "Es Seguro" y algún cambio con CSS
+
+                             Y empezada la traducción de productos en la página de Inagroagricola   ( Foliares traducidos)    
+                             
+        
+        Viernes: 8 Junio 2018
+        
+                             Continuación con la tradución de productos (15 Productos traducidos en total)
+                             
+           -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+           
+           
+        Martes: 12 Junio 2018
+        
+                            Continuada con la traducción de productos (45 Productos traducidos en total)
+                            
+        Martes: 13 Junio 2018 
+        
+                            Terminada la traducción de productos a italiano
+                            
+                            Creados dos nuevos productos
+                            
+                            Traducción de un producto a Ingles, Frances, Italiano y Ruso
